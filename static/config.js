@@ -1,4 +1,4 @@
 window._env_ = {
-  DB_URL: "http://34.64.201.247:8000",
-  DB_PW: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyAgCiAgICAicm9sZSI6ICJhbm9uIiwKICAgICJpc3MiOiAic3VwYWJhc2UtZGVtbyIsCiAgICAiaWF0IjogMTY0MTc2OTIwMCwKICAgICJleHAiOiAxNzk5NTM1NjAwCn0.dc_X5iR_VP_qT0zsiyj_I_OZ2T9FtRU2BBNWN8Bu4GE"
+  DB_URL: process.env.DB_URL,
+  DB_PW: process.env.DB_PW
 }
