@@ -1,0 +1,1 @@
+import{P as e,a3 as a,o as s,x as o,w as t,b as c,aq as n,al as r,a as l}from"./index-dcd728bc.js";const i=l("h5",{class:"text-h5 font-weight-semibold mb-7"},"Contact List",-1),u=e({setup(d){return a({title:"Contact List"}),(_,f)=>(s(),o(r,{elevation:"10"},{default:t(()=>[c(n,null,{default:t(()=>[i]),_:1})]),_:1}))}});export{u as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index-dcd728bc.js";const t={components:{},props:{},data(){return{borderCompletedAnimated:!1}},computed:{},methods:{animateBorder(){this.borderCompletedAnimated=!0,setTimeout(()=>{this.borderCompletedAnimated=!1},1e3)}}};function s(o,r,n,a,d,_){return null}const m=e(t,[["render",s]]),p="/assets/chat-icon-cc9a5964.png";export{m as P,p as _};
